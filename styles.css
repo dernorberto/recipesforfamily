@@ -21,10 +21,12 @@ li {
 
 p {
     font-family: helvetica;
+    font-size: 14px;
 }
 
 a {
     font-family: helvetica;
+    font-size: 14px;
 }
 
 p.frequent {
@@ -35,6 +37,6 @@ p.sometimes {
     background-color: orange;
 }
 
-p.frequent {
+p.never {
     background-color: red;
 }
