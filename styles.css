@@ -22,3 +22,15 @@ li {
 p {
     color:green;
 }
+
+p.frequent {
+    background-color: green;
+}
+
+p.sometimes {
+    background-color: orange;
+}
+
+p.frequent {
+    background-color: red;
+}
