@@ -3,10 +3,16 @@ body {
 }
 
 h1 {
-    color: blue;
+    color: dark-gray;
+    font-family: helvetica;
+    font-size: 20px;
+}
+
+li {
+    font-family: helvetica;
+    font-size: 14px;
 }
 
 p {
     color:green;
 }
-
