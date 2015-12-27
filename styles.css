@@ -29,14 +29,15 @@ a {
     font-size: 14px;
 }
 
-p.frequent {
-    background-color: green;
+.frequent {
+    background-color:green;
 }
 
-p.sometimes {
-    background-color: orange;
+.sometimes {
+    background-color:orange;
 }
 
-p.never {
-    background-color: red;
+.never {
+    background-color:red;
+    color:#ffff;
 }
