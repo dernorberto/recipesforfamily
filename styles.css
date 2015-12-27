@@ -20,7 +20,11 @@ li {
 }
 
 p {
-    color:green;
+    font-family: helvetica;
+}
+
+a {
+    font-family: helvetica;
 }
 
 p.frequent {
