@@ -20,12 +20,12 @@
 
 # Cooking
 1. add oil to skillet and split the mince with a spatula like a rapid-fire guillotine 
- * make sure there are no large meat chunks 
- * while starting with the meat heat up oil in a pot, and add the onions 
- * once the onions are glazed but not burned add the garlic
- * after 10 seconds add the tomato sauce and sprinkle with generous amounts of oregano
- * once the meat is done and some water evaporated, pour into pot
- * let sauce cook for an hour and keep on tasting
- * add salt, some sugar and peppers
- *  by the end it should not be bitter (or not too bitter)
- * split evenly in two tupperware boxes for the freezer, one box is good for 2 adults and 1-2 small children 
+2. make sure there are no large meat chunks 
+3. while starting with the meat heat up oil in a pot, and add the onions 
+4. once the onions are glazed but not burned add the garlic
+5. after 10 seconds add the tomato sauce and sprinkle with generous amounts of oregano
+6. once the meat is done and some water evaporated, pour into pot
+7. let sauce cook for an hour and keep on tasting
+8. add salt, some sugar and peppers
+9. by the end it should not be bitter (or not too bitter)
+10. split evenly in two tupperware boxes for the freezer, one box is good for 2 adults and 1-2 small children 
