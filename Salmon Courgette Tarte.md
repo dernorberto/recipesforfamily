@@ -7,6 +7,7 @@
 * 1 dash curry 
 * 3 thyme branches 
 * salt, pepper 
+
 # Preparation
 1. Punch holes with a fork in doe and pre-cook for 10min at 180degrees 
 2. Wash courgettes and slice with a peeler into long thin strips 
@@ -17,5 +18,6 @@
 7. drop the cream mixture and spread the thyme on top 
 8. cook for 30min 
 9. serve as soon as out of oven 
+
 ### Notes
 * Source: Tartes, quiches, pizzas ISDN: 978-2-84831-121-0 
