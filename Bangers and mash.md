@@ -4,9 +4,9 @@
 * own
 
 # Ingredients
-* Bangers: 4-5 per adult + 1-2 per kid
+* Bangers (fresh sausages): 4-5 per adult + 1-2 per kid
 * Mash potato (+ butter, salt, nutmeg)
-* Gravy
+* Gravy (been using **Jäger sauce**)
 
 # Preparation  
 1. Fry the bangers in pan until cooked
