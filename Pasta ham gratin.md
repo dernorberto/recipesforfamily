@@ -1,24 +1,25 @@
 ### Frequency: Frequent
 
-# Ingredients
-* 3 Portionen 
-* 350 g Nudeln ( z.B.Spiralen )
-* 300 g Schinken, gekocht, gewuerfelt
-* 500-600 ml Fleischbruehe (leichte)
-* 200 ml Sahne 1 ELÂ  Speisestaerke
-* 1 EL Tomatenmark
-* 1 TL Paprikapulver, scharf Salz und Pfeffer, Muskat
-* 1 Lorbeerblatt
-* 150 g Kaese, gerieben (ich bevorzuge Peccorino) 
+# Ingredients (3 portions)
+* 350 g Pasta ( z.B. Penne, Fusilli )
+* 300 g cooked ham cut into cubes
+* 500-600 ml Broth (I do it with 1 packet of...)
+* 200 ml cream
+* 1 Tbsp Cornstarch
+* 1 Tbsp Tomato concentrated
+* 1 Tsp Paprika, Paprikapulver
+* Salt, Pepper and nutmeg
+* 1 Bay leaf
+* 150 g Gratin cheese (Peccorino has been recommended) 
 
 # Instructions
-1. Die rohen Nudeln in eine passende, feuerfeste Auflaufform geben.
-2. Den gewuerfelten Schinken darueber verteilen.
-3. Die Fluessigkeiten mit den Gewuerzen mischen und abschmecken.
-4. Die Speisestaerke unterruehren und ueber die Nudeln verteilen.
-5. Die Nudeln sollten gerade so bedeckt sein.
-6. Den geriebenen Kaese darueber verteilen und im vorgeheizten Backofen bei 180-200°C ca. 30 Min. backen. 
+1. Pre-heat oven to 180-200°C
+2. Place the dry pasta in a Pyrex dish
+2. Spread the cubed ham over the pasta
+3. Mix the liquids and the spices
+4. Mix the corn starch and add everything on top of the pasta, which will have to be covered (or it won't cook) 
+5. Cover everything with the gratin cheese and place in oven for 30min
 
 ### Details
-* Arbeitszeit: 15 Min.
-* Schwierigkeitsgrad: normal 
+* Prep time: 15 Min.
+* Difficulty: normal 
