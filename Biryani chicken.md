@@ -1,9 +1,9 @@
-### Frequency: not yet
+### Family review: we LOVE it!
 
 ### Source: Dave
 
-# Ingredients
-* 300g basmati rice
+## Ingredients
+* 300g basmati rice (common rice will not absorb as much water)
 * 25g butter
 * 1 large onion finely sliced
 * 3 cardamon pods (I use 4)
@@ -17,7 +17,7 @@
 * 1 large handful chopped coriander
 * 1 large handful toasted flaked almonds
 
-# Preparation
+## Preparation
 1. Wash rice 3 x then drain
 2. Cook onion in butter with bay leaf, cardamon and cinnamon 10 min.
 3. Add turmeric, chicken and curry paste, stir until aromatic.
