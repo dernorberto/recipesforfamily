@@ -1,3 +1,7 @@
+# Important note
+
+* Recipes are will be/being/have been moved to https://app.tettra.co/teams/munichdads/categories/121258
+
 ## recipes
 
 Recipes that are **easy to prepare** and **delicious** to serve, for the children and the rest of the family.
