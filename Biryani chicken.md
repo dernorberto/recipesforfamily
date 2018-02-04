@@ -1,6 +1,8 @@
-### Family review: we LOVE it!
+## Details
 
-### Source: Dave
+* Family review: we LOVE it!
+* Start of Prep until at the table: 1h
+* Source: Dave
 
 ## Ingredients
 * 300g basmati rice (common rice will not absorb as much water)
@@ -25,4 +27,4 @@
 5. When fragrant, add stock bring to boil, when vigorously boiling cover with tight fitting lid, reduce heat and cook 10 minutes.
 6. After 10 min, turn off heat, do not lift lid! Leave for 20 min.
 7. Just before serving add coriander and almonds.
-8. I often forget to buy coriander and almonds it is fine with out. 
+8. I often forget to buy coriander and almonds it is fine with out.
