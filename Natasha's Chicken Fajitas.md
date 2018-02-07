@@ -2,15 +2,16 @@
 
 * Source: LEON
 * serves: 4
+* Jury approves and did not mind the onion at all:)
 
 ## Ingredients
 
-* 3 small skinless chicken breasts
+* 4 skinless chicken breasts
 * 2 tsp dried oregano
 * (pinch of chilli powder if you feel courageous)
 * 1 tsp ground cumin
 * 1 onion peeled and thinly sliced
-* 2 red peppers thinly sliced
+* 1 red pepper thinly sliced
 * 3 tblsp olive oil
 * tortillas
 
